@@ -12,31 +12,9 @@ import {
   CardText,
   CardActions
 } from 'material-ui/Card'
-import {
-  Table,
-  TableHeader,
-  TableBody,
-  TableRow,
-  TableHeaderColumn,
-  TableRowColumn
-} from 'material-ui/Table'
 
-import {redA200, grey100} from 'material-ui/styles/colors'
-import WarningIcon from 'material-ui/svg-icons/alert/warning'
-import {Toolbar, ToolbarGroup} from 'material-ui/Toolbar'
-import RaisedButton from 'material-ui/RaisedButton'
-import FlatButton from 'material-ui/FlatButton'
-import ChevronLeft from 'material-ui/svg-icons/navigation/chevron-left'
-import ChevronRight from 'material-ui/svg-icons/navigation/chevron-right'
-import CircularProgress from 'material-ui/CircularProgress'
-import AutoComplete from 'material-ui/AutoComplete'
-import SearchIcon from 'material-ui/svg-icons/action/search'
 import Divider from 'material-ui/Divider'
 import Checkbox from 'material-ui/Checkbox'
-import Cancel from 'material-ui/svg-icons/Navigation/cancel'
-import PeopleIcon from 'material-ui/svg-icons/social/people'
-import Person from 'material-ui/svg-icons/social/person'
-import SleepingIcon from 'material-ui/svg-icons/notification/airline-seat-flat'
 import IconButton from 'material-ui/IconButton'
 import ContentAdd from 'material-ui/svg-icons/content/add-circle'
 import ContentRemove from 'material-ui/svg-icons/content/remove-circle'
